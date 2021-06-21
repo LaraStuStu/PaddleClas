@@ -17,7 +17,6 @@
 </div>
 
 - 动漫人物识别
-
 <div align="center">
 <img src="../images/recognition/more_demo_images/output_cartoon/labixiaoxin-005.jpeg"  height="300" />
 <img src="../images/recognition/more_demo_images/output_cartoon/liuchuanfeng-010.jpeg"  width = "400" height="300"/>
@@ -25,7 +24,6 @@
 </div>
 
 - logo识别
-
 <div align="center">
 <img src="../images/recognition/more_demo_images/output_logo/cctv_4.jpg"  width = "300" height="300" />
 <img src="../images/recognition/more_demo_images/output_logo/zhongshiyou-007.jpg"  width = "300" height="300"/>
@@ -33,7 +31,6 @@
 </div>
 
 - 车辆识别
-
 <div align="center">
 <img src="../images/recognition/more_demo_images/output_vehicle/audia5-115.jpeg"  width = "400" />
 <img src="../images/recognition/more_demo_images/output_vehicle/bentian-yage-101.jpeg"  width = "400" />
