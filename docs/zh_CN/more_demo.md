@@ -5,30 +5,30 @@
 <img src="../images/recognition/more_demo_images/output_product/cliniqueblush_1.jpg"  width = "400" height="250"/>
 </div>
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_product/daoxiangcunjinzhubing_10.jpg"  width = "400" height="250"/>
-<img src="../images/recognition/more_demo_images/output_product/gannidress_10.jpg"  width = "400" height="250"/>
+<img src="../images/recognition/more_demo_images/output_product/daoxiangcunjinzhubing_10.jpg"  width = "400" height="400"/>
+<img src="../images/recognition/more_demo_images/output_product/gbyingerche_15.jpg"  width = "400" height="400"/>
 </div>
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_product/gbyingerche_15.jpg"  width = "400" height="250"/>
-<img src="../images/recognition/more_demo_images/output_product/lafiolewine_03.jpg"  width = "400" height="250"/>
+<img src="../images/recognition/more_demo_images/output_product/gannidress_10.jpg"  width = "400" height="700"/>
+<img src="../images/recognition/more_demo_images/output_product/lafiolewine_03.jpg"  width = "400" height="700"/>
 </div>
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_product/taochunqiu_8.jpg"  width = "400" height="250"/>
-<img src="../images/recognition/more_demo_images/output_product/weiduomeinaiyougege_10.jpg"  width = "400" height="250" />
+<img src="../images/recognition/more_demo_images/output_product/taochunqiu_8.jpg"  width = "400" height="300"/>
+<img src="../images/recognition/more_demo_images/output_product/weiduomeinaiyougege_10.jpg"  width = "400" height="300" />
 </div>
 
 - 动漫人物识别
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_cartoon/labixiaoxin-005.jpeg"  width = "400" />
-<img src="../images/recognition/more_demo_images/output_cartoon/liuchuanfeng-010.jpeg"  width = "400" />
-<img src="../images/recognition/more_demo_images/output_cartoon/zhangchulan-007.jpeg"  width = "400" />
+<img src="../images/recognition/more_demo_images/output_cartoon/labixiaoxin-005.jpeg"  width = "400" height="300" />
+<img src="../images/recognition/more_demo_images/output_cartoon/liuchuanfeng-010.jpeg"  width = "400" height="300"/>
+<img src="../images/recognition/more_demo_images/output_cartoon/zhangchulan-007.jpeg"  width = "400" height="300"/>
 </div>
 
 - logo识别
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_logo/cctv_4.jpg"  width = "400" />
+<img src="../images/recognition/more_demo_images/output_logo/cctv_4.jpg"  width = "400" height="400" />
+<img src="../images/recognition/more_demo_images/output_logo/zhongshiyou-007.jpg"  width = "400" height="400"/>
 <img src="../images/recognition/more_demo_images/output_logo/mangguo_8.jpeg"  width = "400" />
-<img src="../images/recognition/more_demo_images/output_logo/zhongshiyou-007.jpg"  width = "400" />
 </div>
 
 - 车辆识别
