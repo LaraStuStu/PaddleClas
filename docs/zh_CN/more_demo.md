@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 <img src="../images/recognition/more_demo_images/output_product/gannidress_10.jpg"  width = "400" />
-<img src="../images/recognition/more_demo_images/output_product/lafiolewine_03.jpg"  width = "400" />
+<img src="../images/recognition/more_demo_images/output_product/lafiolewine_03.jpg"  width = "200" />
 </div>
 
 - 动漫人物识别
@@ -26,8 +26,8 @@
 
 - logo识别
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_logo/cctv_4.jpg"  width = "350" height="350" />
-<img src="../images/recognition/more_demo_images/output_logo/zhongshiyou-007.jpg"  width = "350" height="350"/>
+<img src="../images/recognition/more_demo_images/output_logo/cctv_4.jpg"  width = "300" height="300" />
+<img src="../images/recognition/more_demo_images/output_logo/zhongshiyou-007.jpg"  width = "300" height="300"/>
 <img src="../images/recognition/more_demo_images/output_logo/mangguo_8.jpeg"  width = "400" />
 </div>
 
