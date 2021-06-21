@@ -1,10 +1,8 @@
 ## 识别效果展示
 - 商品识别
 <div align="center">
-<img src="../images/recognition/more_demo_images/output_product/channelhandle_5.jpg"  width = "400" />
-</div>
-<div align="center">
-<img src="../images/recognition/more_demo_images/output_product/cliniqueblush_1.jpg"  width = "400" />
+<img src="../images/recognition/more_demo_images/output_product/channelhandle_5.jpg"  width = "400"  height="250"/>
+<img src="../images/recognition/more_demo_images/output_product/cliniqueblush_1.jpg"  width = "400" height="250"/>
 </div>
 <div align="center">
 <img src="../images/recognition/more_demo_images/output_product/daoxiangcunjinzhubing_10.jpg"  width = "400" />
